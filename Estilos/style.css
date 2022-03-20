@@ -20,14 +20,14 @@
 }
 
 h2 {
-    margin-bottom: 0.8rem;
+    margin-bottom: 1.2rem;
 }
 
 h1 {
     font-size: 3.2rem;
 }
 h2 {
-    font-size: 1.8;
+    font-size: 1.8rem;
 }
 
 /* LA BASE */
@@ -46,19 +46,21 @@ body {
     font-size: 1.4rem;
     max-width: 40rem;
     margin: auto;
-    padding: 2.4rem;
+    padding: 3.2rem 2.4rem;
 }
 
-p {
+p, p a {
     font-size: 1.8rem;
     font-family: var(--font);
     line-height: 2.4rem;
+    margin-bottom: 0.8rem;
     
 }
 
 a {
     text-decoration: none;
     color: var(--enlaces);
+    margin-bottom: 0.4rem;
 } a:hover {
     text-decoration: underline;
 }
