@@ -1,3 +1,8 @@
+@font-face {
+    font-family: Whyte;
+    src: url(/font/Whyte-Regular.ttf);
+}
+
 /* ROOT VARIABLES */
 :root {
     --pri-color: black;
@@ -11,6 +16,8 @@
     --pad: 2rem;
 
     --pri-font: sans-serif;
+
+    --font: Whyte;
 }
 
 /* LA BASE */
@@ -21,4 +28,5 @@
 html {
     font-size: 75%;
     background: var(--bg-color);
+    font-family: var(--font);
 }
