@@ -20,7 +20,7 @@
 }
 
 h1, h2, h3 {
-    padding: 2.4rem 0rem 1.6rem 0rem;
+    padding: 2.4rem 0rem 0.8rem 0rem;
 }
 
 h1 {
@@ -54,7 +54,7 @@ p {
     padding-bottom: 0.8rem;
     font-family: var(--font);
     
-    line-height: 1.8rem;
+    line-height: 2.4rem;
     
 }
 
