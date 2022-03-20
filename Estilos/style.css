@@ -19,8 +19,8 @@
     --font: Whyte;
 }
 
-h1, h2, h3 {
-    padding: 2.4rem 0rem 1.4rem 0rem;
+h1, h2, h3, p {
+    padding: 0rem 0rem 0.8rem 0rem;
 }
 
 h1 {
@@ -44,14 +44,13 @@ html {
 body {
     font-family: var(--font);
     font-size: 1.4rem;
-    max-width: 70rem;
+    max-width: 30rem;
     margin: auto;
     padding: 2.4rem;
 }
 
 p {
     font-size: 1.8rem;
-    padding-bottom: 0.8rem;
     font-family: var(--font);
     
     line-height: 2.4rem;
@@ -63,4 +62,13 @@ a {
     color: var(--enlaces);
 } a:hover {
     text-decoration: underline;
+}
+
+
+.cont {
+    background-color: white;
+    padding: 2.4rem;
+    border-radius: 1.6rem;
+
+    margin: 1.6rem auto;
 }
