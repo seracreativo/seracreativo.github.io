@@ -53,6 +53,9 @@ p {
     font-size: 1.8rem;
     padding-bottom: 0.8rem;
     font-family: var(--font);
+    
+    line-height: 1.8rem;
+    
 }
 
 a {
