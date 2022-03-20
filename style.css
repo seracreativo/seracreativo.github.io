@@ -5,9 +5,7 @@
 
 /* ROOT VARIABLES */
 :root {
-    --pri-color: black;
-    --sec-color: white;
-    --bg-color: #ff0a0a;
+    --bg-color: #fafafa;
 
     --prueba: gray;
 
@@ -28,5 +26,18 @@
 html {
     font-size: 75%;
     background: var(--bg-color);
+    
+}
+
+body {
     font-family: var(--font);
+    font-size: 1.4rem;
+    max-width: 70rem;
+    margin: auto;
+    padding: 2.4rem;
+}
+
+p, a {
+    font-size: 1.8rem;
+    padding-bottom: 0.4rem;
 }
