@@ -1,27 +1,27 @@
 {
 	"places": [{
-		"name": "Molecule Man",
+		"name": "Aereopuerto",
 		"direction": {
 			"latitude": 20.7886121,
 			"longitude": -76.3056519
 		}
 	}, {
-		"name": "Molecule Man",
+		"name": "Nocturno",
 		"direction": {
-			"latitude": 20.7886121,
-			"longitude": -76.3056519
+			"latitude": 20.882958834387775,
+			"longitude": -76.2863009615802
 		}
 	}, {
-		"name": "Molecule Man",
+		"name": "Lenin",
 		"direction": {
-			"latitude": 20.7886121,
-			"longitude": -76.3056519
+			"latitude": 20.888158231475458,
+			"longitude": -76.26929466157999
 		}
 	}, {
-		"name": "Molecule Man",
+		"name": "Clínico Quirúrjico",
 		"direction": {
-			"latitude": 20.7886121,
-			"longitude": -76.3056519
+			"latitude": 20.869882107863695,
+			"longitude": -76.23709193365357
 		}
 	}]
 }
