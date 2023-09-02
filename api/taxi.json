@@ -28,6 +28,6 @@
 	"price": {
 		"base": 250,
 		"distance": 200,
-		"tiempo": 100
+		"tiempo": 50
 	}
 }
