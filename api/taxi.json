@@ -1,4 +1,4 @@
-[
+{ "places" : [
 	{
 		nombre: 'Aereopuerto',
 		direction: {
@@ -27,4 +27,4 @@
 			longitude: -76.23709193365357,
 		},
 	},
-];
+]
