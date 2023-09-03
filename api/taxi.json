@@ -40,8 +40,8 @@
 			"base": 100,
 			"bags": false,
 			"pasajeros": 1,
-			"distance": 75,
-			"tiempo": 20
+			"distance": 70,
+			"tiempo": 15
 		},
 		{
 			"name": "Triciclo",
