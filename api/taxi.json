@@ -26,18 +26,18 @@
 	}],
 	"agent": 5355559643,
 	"price": [{
-			"name": "MOTO",
-			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFyxWg-aZX292tNse6fRIjfrwqG5zQ_wOHJA3Ynpk&s",
+			"name": "CARRO",
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRonm9xy_efQgdUXtIJrgLTAMdQxti5F2FgJB8i0yXE5Q&s",
 			"base": 250,
 			"distance": 200,
 			"tiempo": 100
 		},
 		{
-			"name": "CARRO",
+			"name": "MOTO",
 			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFyxWg-aZX292tNse6fRIjfrwqG5zQ_wOHJA3Ynpk&s",
-			"base": 250,
-			"distance": 200,
-			"tiempo": 100
+			"base": 100,
+			"distance": 100,
+			"tiempo": 50
 		}
 	]
 }
