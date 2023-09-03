@@ -29,6 +29,8 @@
 			"name": "CARRO",
 			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRonm9xy_efQgdUXtIJrgLTAMdQxti5F2FgJB8i0yXE5Q&s",
 			"base": 250,
+			"bags": true,
+			"pasajeros": 4,
 			"distance": 200,
 			"tiempo": 100
 		},
@@ -36,6 +38,8 @@
 			"name": "MOTO",
 			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFyxWg-aZX292tNse6fRIjfrwqG5zQ_wOHJA3Ynpk&s",
 			"base": 100,
+			"bags": false,
+			"pasajeros": 1,
 			"distance": 75,
 			"tiempo": 25
 		}
