@@ -36,8 +36,8 @@
 			"name": "MOTO",
 			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFyxWg-aZX292tNse6fRIjfrwqG5zQ_wOHJA3Ynpk&s",
 			"base": 100,
-			"distance": 100,
-			"tiempo": 50
+			"distance": 75,
+			"tiempo": 25
 		}
 	]
 }
