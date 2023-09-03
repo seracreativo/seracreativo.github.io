@@ -57,16 +57,16 @@
 			"base": 100,
 			"bags": false,
 			"pasajeros": 4,
-			"distance": 200,
-			"tiempo": 100
+			"distance": 175,
+			"tiempo": 50
 		}, {
 			"name": "Van",
 			"image": "https://seracreativo.github.io/api/image/VAN.png",
 			"base": 100,
 			"bags": false,
 			"pasajeros": 5,
-			"distance": 250,
-			"tiempo": 150
+			"distance": 225,
+			"tiempo": 100
 		}
 	]
 }
