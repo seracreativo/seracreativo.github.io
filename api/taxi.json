@@ -30,7 +30,7 @@
 			"image": "https://seracreativo.github.io/api/image/MOTORINA.png",
 			"base": 250,
 			"bags": true,
-			"pasajeros": 4,
+			"pasajeros": 1,
 			"distance": 75,
 			"tiempo": 20
 		},
