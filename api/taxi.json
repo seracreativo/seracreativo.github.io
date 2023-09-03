@@ -26,22 +26,47 @@
 	}],
 	"agent": 5355559643,
 	"price": [{
-			"name": "CARRO",
-			"image": "https://seracreativo.github.io/api/image/CAR.png",
+			"name": "Motorina",
+			"image": "https://seracreativo.github.io/api/image/MOTORINA.png",
 			"base": 250,
 			"bags": true,
 			"pasajeros": 4,
-			"distance": 200,
-			"tiempo": 100
+			"distance": 75,
+			"tiempo": 20
 		},
 		{
-			"name": "MOTO",
-			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFyxWg-aZX292tNse6fRIjfrwqG5zQ_wOHJA3Ynpk&s",
+			"name": "Motocicleta",
+			"image": "https://seracreativo.github.io/api/image/MOTOR.png"",
 			"base": 100,
 			"bags": false,
 			"pasajeros": 1,
-			"distance": 75,
+			"distance": 90,
 			"tiempo": 25
+		},
+		{
+			"name": "Triciclo",
+			"image": "https://seracreativo.github.io/api/image/TRICICLO.png"",
+			"base": 100,
+			"bags": false,
+			"pasajeros": 4,
+			"distance": 100,
+			"tiempo": 50
+		}, {
+			"name": "Carro",
+			"image": "https://seracreativo.github.io/api/image/CAR.png"",
+			"base": 100,
+			"bags": false,
+			"pasajeros": 4,
+			"distance": 200,
+			"tiempo": 100
+		}, {
+			"name": "Van",
+			"image": "https://seracreativo.github.io/api/image/VAN.png"",
+			"base": 100,
+			"bags": false,
+			"pasajeros": 5,
+			"distance": 250,
+			"tiempo": 150
 		}
 	]
 }
