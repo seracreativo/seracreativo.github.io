@@ -36,7 +36,7 @@
 		},
 		{
 			"name": "Motocicleta",
-			"image": "https://seracreativo.github.io/api/image/MOTOR.png"",
+			"image": "https://seracreativo.github.io/api/image/MOTOR.png",
 			"base": 100,
 			"bags": false,
 			"pasajeros": 1,
@@ -45,7 +45,7 @@
 		},
 		{
 			"name": "Triciclo",
-			"image": "https://seracreativo.github.io/api/image/TRICICLO.png"",
+			"image": "https://seracreativo.github.io/api/image/TRICICLO.png",
 			"base": 100,
 			"bags": false,
 			"pasajeros": 4,
@@ -53,7 +53,7 @@
 			"tiempo": 50
 		}, {
 			"name": "Carro",
-			"image": "https://seracreativo.github.io/api/image/CAR.png"",
+			"image": "https://seracreativo.github.io/api/image/CAR.png",
 			"base": 100,
 			"bags": false,
 			"pasajeros": 4,
@@ -61,7 +61,7 @@
 			"tiempo": 100
 		}, {
 			"name": "Van",
-			"image": "https://seracreativo.github.io/api/image/VAN.png"",
+			"image": "https://seracreativo.github.io/api/image/VAN.png",
 			"base": 100,
 			"bags": false,
 			"pasajeros": 5,
