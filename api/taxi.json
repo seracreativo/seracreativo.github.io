@@ -28,7 +28,7 @@
 	"price": [{
 			"name": "Motorina",
 			"image": "https://seracreativo.github.io/api/image/MOTORINA.png",
-			"limite": 30,
+			"limite": 4,
 			"bags": true,
 			"pasajeros": 1,
 			"distance": 50,
@@ -37,7 +37,7 @@
 		{
 			"name": "Motocicleta",
 			"image": "https://seracreativo.github.io/api/image/MOTOR.png",
-			"limite": 100,
+			"limite": 5,
 			"bags": false,
 			"pasajeros": 1,
 			"distance": 70,
@@ -46,13 +46,13 @@
 		{
 			"name": "Triciclo",
 			"image": "https://seracreativo.github.io/api/image/TRICICLO.png",
-			"limite": 100,
+			"limite": 6,
 			"bags": false,
 			"pasajeros": 4,
 			"distance": 100,
 			"tiempo": 25
 		}, {
-			"name": "Carro",
+			"name": "Carro Std",
 			"image": "https://seracreativo.github.io/api/image/CAR.png",
 			"limite": 100,
 			"bags": false,
@@ -60,11 +60,11 @@
 			"distance": 175,
 			"tiempo": 50
 		}, {
-			"name": "Van",
+			"name": "Carro Lux",
 			"image": "https://seracreativo.github.io/api/image/VAN.png",
 			"limite": 100,
 			"bags": false,
-			"pasajeros": 5,
+			"pasajeros": 6,
 			"distance": 225,
 			"tiempo": 100
 		}
