@@ -28,7 +28,7 @@
 	"price": [{
 			"name": "Motorina",
 			"image": "https://seracreativo.github.io/api/image/MOTORINA.png",
-			"limite": 250,
+			"limite": 30,
 			"bags": true,
 			"pasajeros": 1,
 			"distance": 50,
