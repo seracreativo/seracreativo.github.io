@@ -25,9 +25,19 @@
 		}
 	}],
 	"agent": 5355559643,
-	"price": [{
+	"price": [
+		{
+			"name": "Repartidor",
+			"image": "https://seracreativo.github.io/api/image/MANDADERO.jpg",
+			"limite": 4,
+			"bags": true,
+			"pasajeros": 0,
+			"distance": 50,
+			"tiempo": 10
+		},
+		{
 			"name": "Motorina",
-			"image": "https://seracreativo.github.io/api/image/MOTORINA.png",
+			"image": "https://seracreativo.github.io/api/image/MOTORINA.jpg",
 			"limite": 4,
 			"bags": true,
 			"pasajeros": 1,
@@ -35,8 +45,8 @@
 			"tiempo": 10
 		},
 		{
-			"name": "Motocicleta",
-			"image": "https://seracreativo.github.io/api/image/MOTOR.png",
+			"name": "Moto",
+			"image": "https://seracreativo.github.io/api/image/MOTO.jpg",
 			"limite": 5,
 			"bags": false,
 			"pasajeros": 1,
@@ -45,23 +55,33 @@
 		},
 		{
 			"name": "Triciclo",
-			"image": "https://seracreativo.github.io/api/image/TRICICLO3D.png",
+			"image": "https://seracreativo.github.io/api/image/TRICICLO.jpg",
 			"limite": 6,
 			"bags": false,
 			"pasajeros": 4,
 			"distance": 100,
 			"tiempo": 25
 		}, {
-			"name": "Carro Std",
-			"image": "https://seracreativo.github.io/api/image/CAR.png",
+			"name": "Carro",
+			"image": "https://seracreativo.github.io/api/image/STANDAR.jpg",
 			"limite": 100,
 			"bags": false,
 			"pasajeros": 4,
 			"distance": 175,
 			"tiempo": 50
-		}, {
-			"name": "Carro Lux",
-			"image": "https://seracreativo.github.io/api/image/VAN.png",
+		},
+		{
+			"name": "Tur",
+			"image": "https://seracreativo.github.io/api/image/LUJO.jpg",
+			"limite": 100,
+			"bags": false,
+			"pasajeros": 4,
+			"distance": 175,
+			"tiempo": 50
+		},
+		{
+			"name": "Van",
+			"image": "https://seracreativo.github.io/api/image/VAN.jpg",
 			"limite": 100,
 			"bags": false,
 			"pasajeros": 6,
