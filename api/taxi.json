@@ -29,6 +29,7 @@
 		{
 			"name": "Repartidor",
 			"image": "https://seracreativo.github.io/api/image/MANDADERO.jpg",
+			"details": "Hola, esta es una descripción bien cabrona del Repartidor",
 			"limite": 4,
 			"bags": true,
 			"pasajeros": 0,
@@ -38,6 +39,7 @@
 		{
 			"name": "Motorina",
 			"image": "https://seracreativo.github.io/api/image/MOTORINA.jpg",
+			"details": "Hola, esta es una descripción bien cabrona del Motorina",
 			"limite": 4,
 			"bags": true,
 			"pasajeros": 1,
@@ -47,6 +49,7 @@
 		{
 			"name": "Moto",
 			"image": "https://seracreativo.github.io/api/image/MOTO.jpg",
+			"details": "Hola, esta es una descripción bien cabrona del Moto",
 			"limite": 5,
 			"bags": false,
 			"pasajeros": 1,
@@ -56,6 +59,7 @@
 		{
 			"name": "Triciclo",
 			"image": "https://seracreativo.github.io/api/image/TRICICLO.jpg",
+			"details": "Hola, esta es una descripción bien cabrona del Triciclo",
 			"limite": 6,
 			"bags": false,
 			"pasajeros": 4,
@@ -64,6 +68,7 @@
 		}, {
 			"name": "Carro",
 			"image": "https://seracreativo.github.io/api/image/STANDAR.jpg",
+			"details": "Hola, esta es una descripción bien cabrona del Carro",
 			"limite": 100,
 			"bags": false,
 			"pasajeros": 4,
@@ -73,6 +78,7 @@
 		{
 			"name": "Tur",
 			"image": "https://seracreativo.github.io/api/image/LUJO.jpg",
+			"details": "Hola, esta es una descripción bien cabrona del Tur",
 			"limite": 100,
 			"bags": false,
 			"pasajeros": 4,
@@ -82,6 +88,7 @@
 		{
 			"name": "Van",
 			"image": "https://seracreativo.github.io/api/image/VAN.jpg",
+			"details": "Hola, esta es una descripción bien cabrona del Van",
 			"limite": 100,
 			"bags": false,
 			"pasajeros": 6,
