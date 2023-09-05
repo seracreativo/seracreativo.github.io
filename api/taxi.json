@@ -33,7 +33,7 @@
 			"limite": 4,
 			"bags": true,
 			"pasajeros": 0,
-			"distance": 50,
+			"distance": 30,
 			"tiempo": 10
 		},
 		{
@@ -82,8 +82,8 @@
 			"limite": 100,
 			"bags": false,
 			"pasajeros": 4,
-			"distance": 175,
-			"tiempo": 50
+			"distance": 200,
+			"tiempo": 75
 		},
 		{
 			"name": "Van",
