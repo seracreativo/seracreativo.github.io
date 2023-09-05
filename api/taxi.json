@@ -45,7 +45,7 @@
 		},
 		{
 			"name": "Triciclo",
-			"image": "https://seracreativo.github.io/api/image/TRICICLO.png",
+			"image": "https://seracreativo.github.io/api/image/TRICICLO3D.png",
 			"limite": 6,
 			"bags": false,
 			"pasajeros": 4,
