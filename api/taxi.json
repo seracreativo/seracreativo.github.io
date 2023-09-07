@@ -25,19 +25,19 @@
 		}
 	}],
 	"agent": [{
-		"nombre": "agente1",
+		"nombre": "frank",
 		"horarioInicio": "2100",
 		"horarioFin": "0300",
 		"telefono": "5355559643"
 	}, {
 
-		"nombre": "agente2",
+		"nombre": "jose",
 		"horarioInicio": "0300",
 		"horarioFin": "1200",
 		"telefono": "5356181093"
 	}, {
 
-		"nombre": "agente3",
+		"nombre": "taty",
 		"horarioInicio": "1200",
 		"horarioFin": "2100",
 		"telefono": "5352899424"
