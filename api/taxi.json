@@ -24,9 +24,25 @@
 			"longitude": -76.23709193365357
 		}
 	}],
-	"agent": 5355559643,
-	"price": [
-		{
+	"agent": [{
+		"nombre": "agente1",
+		"horarioInicio": "2100",
+		"horarioFin": "0300",
+		"telefono": "5355559643"
+	}, {
+
+		"nombre": "agente2",
+		"horarioInicio": "0300",
+		"horarioFin": "1200",
+		"telefono": "5356181093"
+	}, {
+
+		"nombre": "agente3",
+		"horarioInicio": "1200",
+		"horarioFin": "2100",
+		"telefono": "5352899424"
+	}],
+	"price": [{
 			"name": "Repartidor",
 			"image": "https://seracreativo.github.io/api/image/MANDADERO.jpg",
 			"details": "Hola, esta es una descripción bien cabrona del Repartidor",
