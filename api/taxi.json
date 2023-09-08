@@ -26,20 +26,20 @@
 	}],
 	"agent": [{
 		"nombre": "frank",
-		"horarioInicio": "2100",
-		"horarioFin": "0300",
+		"horarioInicio": "0000",
+		"horarioFin": "2359",
 		"telefono": "5355559643"
 	}, {
 
 		"nombre": "jose",
-		"horarioInicio": "0300",
-		"horarioFin": "1200",
+		"horarioInicio": "2500",
+		"horarioFin": "2500",
 		"telefono": "5356181093"
 	}, {
 
 		"nombre": "taty",
-		"horarioInicio": "1200",
-		"horarioFin": "2100",
+		"horarioInicio": "2500",
+		"horarioFin": "2500",
 		"telefono": "5352899424"
 	}],
 	"price": [{
